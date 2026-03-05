@@ -1,4 +1,5 @@
-🎙️ SOLO – Web-Based Voice Assistant Interface
+**🎙️ SOLO – Web-Based Voice Assistant Interface**
+
 📌 Project Overview
 
 SOLO is a web-based voice assistant interface inspired by AI assistants like Jarvis. It provides an interactive UI with voice effects, animations, and dynamic text rendering. The project is built using HTML, CSS, and JavaScript, and is designed to simulate a smart assistant experience directly in the browser.
